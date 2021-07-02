@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Untill now arrows don't work :(
+Make DevOps great again!
 Use the left arrow to go back!
